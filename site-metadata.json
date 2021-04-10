@@ -8,7 +8,7 @@
     "header": {
         "type": "header",
         "template": "header",
-        "title": "DIY",
+        "title": "Webpixelia",
         "logo": "images/classic/logo.svg",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
